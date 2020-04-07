@@ -1,4 +1,4 @@
-**Follow the link to see the platfom** https://www.youneskasri.com/ReactPlateformeTests
+**Follow the link to see the platfom** https://www.youneskasri.github.com/ReactPlateformeTests
 -----
 ![alt text](_README/screen1.png)
 ![alt text](_README/screen2.png)
